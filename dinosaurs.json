@@ -1,0 +1,22 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://islanublar.jurassicworld.com/media/dinosaurs/tyrannosaurus-rex/tyrannosaurus-rex-info-graphic.png"
+		},
+		{
+		"name": "Godzilla",
+			"type": "Giant Lizard",
+			"food": "Residents of Tokyo",
+			"url": "http://68.media.tumblr.com/a6f54fa58e3ca86c1ff35cbca9bec62a/tumblr_inline_o0cm9ffDAK1txssqo_540.gif"
+		},
+		{
+		"name": "Shenron",
+			"type": "From Dragon Ball Z",
+			"food": "magic",
+			"url": "https://s-media-cache-ak0.pinimg.com/736x/0a/8b/35/0a8b35e0e00bea02881544e8fa633303.jpg"
+		}
+	]	
+}
